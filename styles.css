@@ -78,6 +78,10 @@ p {
   margin-bottom: 80px;
 }
 
+.banner .banner-content button:hover {
+  cursor: pointer;
+}
+
 #course-content {
   width: 34%;
   text-align: center;
