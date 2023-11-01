@@ -24,7 +24,6 @@ h2 {
   color: #33a8db;
   font-weight: bold;
   text-transform: uppercase;
-  margin-bottom: 24px;
 }
 
 p {
@@ -49,7 +48,6 @@ p {
 .banner .banner-content {
   margin: auto;
   text-align: center;
-  color: white;
   width: 420px;
 }
 
@@ -123,6 +121,15 @@ p {
   max-width: 250px;
   text-shadow: 3px 2px #33a8db;
   margin-left: 200px;
+}
+
+#professional-challenges {
+  width: 31%;
+  text-align: center;
+}
+
+#professional-challenges img {
+  margin: 30px 0;
 }
 
 footer {
